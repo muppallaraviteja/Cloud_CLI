@@ -1,0 +1,8 @@
+C:\Users\ravit\Desktop\Projects\GitHub\678-18-c\P1\aggiestack.py admin show instances --- FAILURE
+C:\Users\ravit\Desktop\Projects\GitHub\678-18-c\P1\aggiestack.py server list --- FAILURE
+C:\Users\ravit\Desktop\Projects\GitHub\678-18-c\P1\aggiestack.py server create --image image_name --flavor flavor_name instance_name --- FAILURE
+C:\Users\ravit\Desktop\Projects\GitHub\678-18-c\P1\aggiestack.py server create --image image_name --flavor flavor_name instance_name --- FAILURE
+C:\Users\ravit\Desktop\Projects\GitHub\678-18-c\P1\aggiestack.py server create --image linux-ubuntu --flavor flavor_name instance_name --- FAILURE
+C:\Users\ravit\Desktop\Projects\GitHub\678-18-c\P1\aggiestack.py server create --image linux-ubuntu --flavor small instance_name --- SUCCESS
+C:\Users\ravit\Desktop\Projects\GitHub\678-18-c\P1\aggiestack.py show images --- SUCCESS
+aggiestack.py --- FAILURE
